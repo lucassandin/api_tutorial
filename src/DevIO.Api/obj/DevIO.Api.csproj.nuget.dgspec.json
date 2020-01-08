@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/DevIO.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/DevIO.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/DevIO.Api.csproj",
+        "projectName": "DevIO.Api",
+        "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/DevIO.Api.csproj",
+        "packagesPath": "/Users/lucassandin/.nuget/packages/",
+        "outputPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lucassandin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj"
+              },
+              "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/DevIO.Data.csproj": {
+                "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/DevIO.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj",
+        "projectName": "DevIO.Business",
+        "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj",
+        "packagesPath": "/Users/lucassandin/.nuget/packages/",
+        "outputPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lucassandin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/DevIO.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/DevIO.Data.csproj",
+        "projectName": "DevIO.Data",
+        "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/DevIO.Data.csproj",
+        "packagesPath": "/Users/lucassandin/.nuget/packages/",
+        "outputPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/lucassandin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj": {
+                "projectPath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Business/DevIO.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

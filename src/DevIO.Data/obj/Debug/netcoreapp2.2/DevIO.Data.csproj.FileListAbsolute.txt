@@ -1,0 +1,14 @@
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.deps.json
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.runtimeconfig.json
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.runtimeconfig.dev.json
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.dll
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Data.pdb
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.dll
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/bin/Debug/netcoreapp2.2/DevIO.Business.pdb
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csprojAssemblyReference.cache
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CoreCompileInputs.cache
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfoInputs.cache
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.AssemblyInfo.cs
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.csproj.CopyComplete
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.dll
+/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Data/obj/Debug/netcoreapp2.2/DevIO.Data.pdb

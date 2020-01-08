@@ -1,0 +1,16 @@
+{
+  "FilePath": "/Users/lucassandin/www/dotnet/APICompleta/src/DevIO.Api/DevIO.Api.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "DevIO.Api",
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
